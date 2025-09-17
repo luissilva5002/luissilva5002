@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**luissilva5002/luissilva5002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Luís Silva. I am a software engineering student and enthusiast building products that turn software into meaningful solutions.
 
-Here are some ideas to get you started:
+🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⏱️ Clockwork – a Flutter app for personal and team productivity, with local-first data storage, Firebase sync, and smart reporting.
+
+🤖 N.O.V.A. – my fully local, personalized AI assistant, powered by Ollama, with memory routing and a future cross-device UI.
+
+🖥️ Homelab Manager – a Flutter desktop + Android app for browsing, managing, and transferring files to/from my Ubuntu-based home server over SSH.
+
+🛠️ My Toolbox
+
+Hardware: ESP32 (C3, H2), LSM6DS3, BLE, battery monitoring, PCB design & optimization
+
+Software: Flutter, Firebase, Hive, Python, C/C++ (ESP-IDF, Arduino)
+
+AI/ML: local LLM integration with Ollama
+
+Other: 3D printing (Elegoo Neptune 4 Pro)
+
+📚 Currently Learning
+
+Advanced PCB design and power optimization techniques
+
+ML model improvement for sensor data classification
+
+Secure and efficient data syncing between local DBs and cloud services
+
+🌱 What Drives Me
+
+I’m driven by the challenge of turning complex ideas into simple, deployable solutions.
