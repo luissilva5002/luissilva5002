@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👋 Hi there!
 
-My name is Luís Silva. I am a software engineering student and enthusiast building products that turn software into meaningful solutions.
+I'm **Luís Silva**, a Software Engineering student at **FEUP** (Faculty of Engineering, University of Porto). I enjoy building practical projects, exploring new technologies, and sharing what I learn along the way.
 
 
 ### 🚀 What I'm Working On
@@ -14,9 +14,9 @@ My name is Luís Silva. I am a software engineering student and enthusiast build
 
 ### 🛠️ My Toolbox
 
-- Hardware: ESP32 (C3, H2), LSM6DS3, BLE, battery monitoring, PCB design & optimization
+- Hardware: ESP32 (C3, N8R2), LSM6DS3, BLE, battery monitoring IC, PCB design & optimization
 
-- Software: Flutter, Firebase, Hive, Python, C/C++ (ESP-IDF, Arduino)
+- Software: Python, C/C++, Java, Dart(Flutter), SQL, Arduino
 
 - AI/ML: local LLM integration with Ollama
 
@@ -24,8 +24,6 @@ My name is Luís Silva. I am a software engineering student and enthusiast build
 
 
 ### 📚 Currently Learning
-
-- Advanced PCB design and power optimization techniques
 
 - ML model improvement for sensor data classification
 
