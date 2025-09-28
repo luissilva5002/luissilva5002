@@ -29,6 +29,10 @@ I'm **Luís Silva**, a Software Engineering student at **FEUP** (Faculty of Engi
 
 - Secure and efficient data syncing between local DBs and cloud services
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
 
 ### 🌱 What Drives Me
 
