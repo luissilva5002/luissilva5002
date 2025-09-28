@@ -31,7 +31,10 @@ I'm **Luís Silva**, a Software Engineering student at **FEUP** (Faculty of Engi
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=luissilva5002&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissilva5002&layout=compact&theme=tokyonight" height="180em" />
+</div>
 
 
 ### 🌱 What Drives Me
